@@ -9,6 +9,10 @@ Contains the documentaion and codes for the blockchain workshop.
 [![Ethers Badge](https://img.shields.io/badge/Ethers-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)](https://docs.ethers.org/v6/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
 
+# Holešky
+
+RPC URL: https://eth-holesky.g.alchemy.com/v2/6RPFfi4PqwHYLMmZy1iQYycVJaKr2ef4
+
 # 📚 References
 1. MetaMask - https://metamask.io/download
 2. Remix IDE - https://remix.ethereum.org/
