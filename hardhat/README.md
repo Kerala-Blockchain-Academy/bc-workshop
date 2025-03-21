@@ -16,7 +16,7 @@ Go to https://nodejs.org/en/download and follow the instruction to install.
 ### Step 1: Initilize Node Project
 
 ```
-npm i
+npm init
 ```
 Go with defualts, ie just press enter.
 ### Step 2: Install Dependecies
