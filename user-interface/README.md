@@ -26,3 +26,8 @@ To run app
 ```
 npm run dev
 ```
+
+### Contract Address
+```
+0x3B318E763F800c4Cf823A10cff5a993180C84aaa
+```
